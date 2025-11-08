@@ -1,8 +1,8 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Yuliana21212170/Practica4MSF)
 
-# Práctica: Regeneración de glóbulos rojos [Sistema de EDOs]
+# Práctica 4: Regeneración de glóbulos rojos [Sistema de EDOs]
 
-## Información del estudiante
+## Información de la estudiante
 
 Jocelyn Yuliana Navarrete Avalos \[21212170]; l21212170@tectijuana.edu.mx
 
